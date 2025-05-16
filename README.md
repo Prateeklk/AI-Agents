@@ -15,10 +15,15 @@ This project showcases the use of large language models (LLMs) in a multi-agent 
 
 ## 📁 Project Structure
 ├── L1_Multi-Agent_Conversation_and_Stand-up_Comedy.ipynb # Main notebook
+
 ├── data/ # (Optional) Data folder
+
 ├── src/ # (Optional) Python modules/scripts
+
 ├── notebooks/ # (Optional) Additional notebooks
+
 ├── README.md # Project documentation
+
 └── requirements.txt # Dependencies (if available)
 
 
