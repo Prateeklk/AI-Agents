@@ -36,5 +36,5 @@ This repo may include agents built using:
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/Prateeklk/ai-agents.git
+   git clone https://github.com/Prateeklk/AI-Agents.git
    cd ai-agents
