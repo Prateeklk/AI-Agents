@@ -1,59 +1,40 @@
-# 🤖 L1 Multi-Agent Conversation and Stand-up Comedy
+# 🤖 AI Agents Playground
 
-This project showcases the use of large language models (LLMs) in a multi-agent conversational setup to generate **stand-up comedy**. The notebook simulates a dialogue between AI agents who collaboratively write and deliver jokes, offering a fun and creative use of conversational AI.
+Welcome to the **AI Agents Playground** – a centralized repository where I explore, build, and experiment with various AI agent architectures and frameworks.
 
----
+## 📁 Repository Structure
 
-## 📘 Overview
+This repo is organized into folders, each containing code and documentation for different types or implementations of AI agents.
 
-- Multi-agent interaction using LLMs
-- Focus on generating and refining humorous content
-- Conversational simulation mimicking a comedy writing room
-- Creative use-case of AI for entertainment and NLP experimentation
+Each folder contains:
+- 📄 `README.md` – Describes the purpose and functionality of the agent.
+- 🧠 Code – Scripts and notebooks that implement the agent logic.
+- ⚙️ Config – Any configuration files (YAML/JSON/etc.).
+- 🧪 Examples – Sample input/output runs, demos, or use cases.
 
----
+## 🧠 Purpose
 
-## 📁 Project Structure
-├── L1_Multi-Agent_Conversation_and_Stand-up_Comedy.ipynb # Main notebook
+The goal of this repo is to:
 
-├── data/ # (Optional) Data folder
+- Explore different AI agent designs and architectures.
+- Compare the performance, modularity, and adaptability of each agent.
+- Provide well-structured, modular codebases for future reuse or collaboration.
 
-├── src/ # (Optional) Python modules/scripts
+## 🔧 Technologies & Frameworks
 
-├── notebooks/ # (Optional) Additional notebooks
+This repo may include agents built using:
 
-├── README.md # Project documentation
-
-└── requirements.txt # Dependencies (if available)
-
-
----
-
-## ⚙️ Getting Started
-
-### 1. Clone the Repository
-
-git clone https://github.com/your-username/multi-agent-comedy.git
-cd multi-agent-comedy
-
-"
-
-# 🧠 Concepts Explored
-Multi-agent LLM coordination
-
-Prompt engineering
-
-Creative writing with AI
-
-Simulation of real-world group collaboration
+- **LangChain**
+- **OpenAI GPT / ChatGPT APIs**
+- **LlamaIndex**
+- **Autogen**
+- **RAG pipelines (Retrieval-Augmented Generation)**
+- **GPT Engineer-style frameworks**
+- Custom logic and orchestration
 
 
-# 🛠️ Tools & Libraries
-Python 3.8+
+1. Clone the repo:
 
-Jupyter Notebook
-
-OpenAI API (or similar LLM interface)
-
-ipywidgets (for interactive elements)
-
+   ```bash
+   git clone https://github.com/Prateeklk/ai-agents.git
+   cd ai-agents
